@@ -242,7 +242,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: Stackbit Book Theme
+  title: QuranAz.Com
   description: The preview of the Book theme
   extra:
     - name: 'og:type'
