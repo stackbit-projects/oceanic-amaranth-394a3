@@ -243,7 +243,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: QuranAz.Com
-  description: The preview of the Book theme
+  description: Zikr Əhli
   extra:
     - name: 'og:type'
       value: website
